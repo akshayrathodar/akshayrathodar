@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Akshay Rathod from India<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Web Technologies<br>- ⚡ In my free time I'm creating JS libs.</p>
+<p align="left">I'm Akshay Rathod from India<br><br>- 🔭 I’m working as Senior Software Engineer<br>- 📚 I'm currently learning Web Technologies<br>- ⚡ In my free time I'm creating JS libs.</p>
 💬 Reach out to me akshayrathod975@gmail.com
 
 ###
